@@ -4,7 +4,7 @@ O Jogo do Número Secreto é um projeto desenvolvido durante o curso de Lógica 
 
 ## Funcionalidades
 
-- O jogo gera um número secreto aleatório entre 1 e 10.
+- O jogo gera um número secreto aleatório entre 1 e 100.
 - O jogador pode inserir um número e receber dicas sobre se o número secreto é maior ou menor.
 - O jogo informa quando o jogador acerta o número secreto.
 - O jogo possui efeitos sonoros para tornar a experiência mais imersiva.
